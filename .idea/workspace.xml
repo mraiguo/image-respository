@@ -133,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535815643300</updated>
-      <workItem from="1535815644479" duration="4722000" />
+      <workItem from="1535815644479" duration="5361000" />
     </task>
     <task id="LOCAL-00001" summary="上传图片">
       <created>1535815829029</created>
@@ -177,11 +177,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535827719051</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="上传图片">
+      <created>1535829303208</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1535829303208</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4722000" />
+    <option name="totallyTimeSpent" value="5361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
