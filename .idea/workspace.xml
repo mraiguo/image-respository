@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b6c6c44-8933-499b-9e33-bd0914e299f0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/bug/select-chrome.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bug/select-ie11.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bug/carousel.gif" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -97,6 +96,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,7 +113,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,7 +164,8 @@
       <workItem from="1552377704830" duration="30000" />
       <workItem from="1552446190582" duration="78000" />
       <workItem from="1555058187617" duration="260000" />
-      <workItem from="1556005805921" duration="26000" />
+      <workItem from="1556005805921" duration="200000" />
+      <workItem from="1561383049373" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="上传图片">
       <created>1535815829029</created>
@@ -272,11 +272,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555058229829</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add ant bug">
+      <created>1556005841681</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1556005841681</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9105000" />
+    <option name="totallyTimeSpent" value="9299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -316,6 +323,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
