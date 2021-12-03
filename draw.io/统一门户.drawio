@@ -1,26 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T03:45:09.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="dopAkIv9JiP-XDX-8x18" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T05:40:32.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_RxlkObKg0xK74MTng7y" version="15.8.6" type="github">
   <diagram id="j0ziaLHF8pWoc9vtY9ym" name="Page-1">
-    <mxGraphModel dx="1550" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5luBb_2tMEL0sUNSLeLB-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;nginx&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="290" width="480" height="200" as="geometry" />
+          <mxGeometry x="133" y="261" width="534" height="256" as="geometry" />
         </mxCell>
-        <mxCell id="5luBb_2tMEL0sUNSLeLB-2" value="统一门户" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="270" y="350" width="430" height="40" as="geometry" />
+        <mxCell id="LfQ-vOlzmzYYvnquImAN-2" value="扩展点" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="373" width="250" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="LfQ-vOlzmzYYvnquImAN-1" value="扩展点1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="388" y="435" width="100" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5luBb_2tMEL0sUNSLeLB-2" value="统一门户" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=18;fillColor=#ff99cc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="156" y="318" width="430" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5luBb_2tMEL0sUNSLeLB-3" value="rcdc-ui" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="260" y="415" width="100" height="50" as="geometry" />
+          <mxGeometry x="152" y="373" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5luBb_2tMEL0sUNSLeLB-4" value="rccp-ui" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="380" y="415" width="90" height="50" as="geometry" />
+          <mxGeometry x="152" y="445" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5luBb_2tMEL0sUNSLeLB-5" value="cm-ui" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="490" y="415" width="100" height="50" as="geometry" />
+          <mxGeometry x="266" y="375" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5luBb_2tMEL0sUNSLeLB-6" value="cms-ui" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="610" y="415" width="100" height="50" as="geometry" />
+          <mxGeometry x="263" y="445" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LfQ-vOlzmzYYvnquImAN-3" value="扩展点2" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="504" y="435" width="100" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
